@@ -17,8 +17,10 @@ gcc -o c4 c4.c
 #示例代码
 
 #include <stdio.h>
+
 int main()
 {
+
     int i;
 	int j;
 	i=0;
@@ -34,4 +36,5 @@ int main()
 	}
 	return 0;
 }
+
 
